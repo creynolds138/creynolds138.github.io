@@ -1,1 +1,2 @@
-# creynolds138.github.io
+# KinkList
+Easily create [kink list](https://goctionni.github.io/KinkList/v1.0.2.html)
